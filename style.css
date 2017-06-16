@@ -10,17 +10,31 @@ html, body {
 }
 
 #buffer {
-  height: 20px;
+  height: 50px;
 }
 
 .hello {
   text-align: right;
-  font-size: 10px;
   background: #003f2d;
-  color: white;
-  height: 20px;
-  padding-right: 10px;
+  height: 30px;
+  padding-right: 20px;
   padding-top: 10px;
+}
+
+.hello li {
+  display: inline-block;
+}
+
+#userName {
+  position: relative;
+  top: -30px;
+  color: white;
+  font-size: 15px;
+
+}
+
+.hello img {
+  margin: 5px;
 }
 
 p {
@@ -31,7 +45,7 @@ p {
 .app {
   margin: auto;
   width: 400px;
-  height: 700px;
+  height: 600px;
   background: white;
 }
 

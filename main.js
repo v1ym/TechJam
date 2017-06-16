@@ -4,14 +4,6 @@ $(document).ready(function() {
     $(this).next(".dropDownSlide").toggle();
 
 
-  })
+  }) //end:click function
 
-
-
-
-
-
-
-
-
-});
+}); //end:ready function

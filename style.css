@@ -1,0 +1,109 @@
+/* * {
+  border: 1px solid green;
+} */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #191919;
+}
+
+#buffer {
+  height: 20px;
+}
+
+.hello {
+  text-align: right;
+  font-size: 10px;
+  background: #003f2d;
+  color: white;
+  height: 20px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  margin: auto;
+  width: 400px;
+  height: 700px;
+  background: white;
+}
+
+.container {
+  margin: 0 auto;
+  width: 360px;
+  height: 650px;
+  padding-top: 20px;
+
+}
+
+h1 {
+  text-align: left;
+}
+
+.slide {
+  background: #f2f2f2;
+  margin: 20px auto 0;
+  width: 100%;
+  height: 50px;
+}
+
+.slide:hover {
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
+
+.slideInfo {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.shopName {
+  font-size: 15px;
+  float: left;
+  padding-top: 5px;
+}
+
+.address {
+  font-size: 10px;
+  float: left;
+  clear: left;
+}
+
+.driveTime {
+  font-size: 20px;
+  float: right;
+  font-weight: 700;
+  color: #191919;
+  margin: 10px 5px;
+}
+
+.dropDownSlide {
+  height: 50px;
+  width: 100%;
+  background: #34b233;
+  display: none;
+}
+
+.dropDownInfo {
+  width: 100%;
+}
+
+.dropDownInfo li {
+  display: inline-block;
+  padding: 10px 45px;
+
+}

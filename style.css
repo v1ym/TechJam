@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: #191919;
+  background: white;
 
 }
 
@@ -13,7 +13,7 @@ html, body {
 .hello {
   text-align: right;
   background: #003f2d;
-  height: 100px;
+  height: 90px;
   padding-right: 20px;
   padding-top: 10px;
 }
@@ -24,14 +24,15 @@ html, body {
 
 #userName {
   position: relative;
-  top: -50px;
+  top: -70px;
   color: white;
   font-size: 40px;
 
 }
 
 .hello img {
-  margin: 5px;
+
+  margin: 20px 5px;
 }
 
 p {
@@ -46,7 +47,7 @@ p {
   /* width: 375px;
   height: 667px; */
   width: 980px;
-  height: 1720px;
+  height: 1420px;
   background: white;
   /*background: url("./completed.png") no-repeat center center;*/
 
@@ -58,12 +59,13 @@ p {
   height: 650px; */
   width: 950px;
   height: 1100px;
-  padding-top: 20px;
+  padding-top: 20px;``
 }
 
 h1 {
   text-align: left;
   font-size: 50px;
+  margin-top: 60px;
 }
 
 .slide {

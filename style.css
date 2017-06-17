@@ -57,7 +57,7 @@ p {
   /* width: 360px;
   height: 650px; */
   width: 950px;
-  height: 1500px;
+  height: 1300px;
   padding-top: 20px;
 }
 
@@ -207,7 +207,7 @@ ul {
 }
 
 .navBar {
-  height: 120px;
+  height: 320px;
   background: #003f2d;
   color: white;
   text-align: center;

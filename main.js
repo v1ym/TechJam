@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var claimsLeft = 2;
+  var claimsLeft = 3;
 
   $(".slide").click(function() {
 
